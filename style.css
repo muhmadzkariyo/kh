@@ -1,0 +1,61 @@
+.container{
+    width: 90%;
+    height: 2000px;
+    background-color: grey;
+    margin:  auto;
+    border-radius: 30px;
+}
+.oraliq{
+    display: flex;
+    justify-content: space-around;
+}
+.flex{
+    width: 220px;
+    height: 40px;
+    background-color: red;
+    border-radius: 20px;
+    text-align: center;
+}
+.h1{
+    color: white;
+}
+.img{
+    border: 2px solid red;
+    width: 400px;
+
+    display: flex;
+    justify-content: space-between;
+}
+.img1{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+.flex-box{
+    border-radius: 30px;
+        width: 220px;
+    height: 100px;
+    background-color: black;
+    margin: auto;
+    margin-top: 20px;
+
+}
+.yoz{
+    color: white;
+    text-align: center;
+    justify-content: center;
+    padding-top: 30px;
+
+}
+.fle{
+    border: 50px solid red;
+    width: 500px;
+    height: 370px;
+    background-color: greenyellow;
+    border-radius: 30px;
+    margin-top: 20px;
+}
+.fle1{
+    display: flex;
+    justify-content: space-around;
+}
